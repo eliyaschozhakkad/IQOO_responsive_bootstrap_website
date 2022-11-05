@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  
+  }
+.nav-link{
+    color: #fff;
+}
+.bg-dark{
+    background-color: #000;
+}
+.logo{
+    height: 5rem
+    
+    
+    
+}
+
+.pic-class{
+    width: 22rem;
+    height: 22rem;
+    object-fit: cover;
+    
+   
+    
+}
+.person{
+width: 2rem;
+height: 2rem;
+
+  
+}
+.navbar-toggler-icon{
+    border:#000 ;
+    background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.nav-link:hover{
+    color: #ffc107;
+
+}
+.col{
+    border:1px solid blue
+}
+.h5{
+    color: #000;
+}
+a{
+    text-decoration: none;
+    color: #999;
+}
+a:hover{
+    color: #ffc107;
+}
+.email:hover{
+    color: #ffc107;
+}
+.iconfoot{
+    padding: 0.2rem;
+}
